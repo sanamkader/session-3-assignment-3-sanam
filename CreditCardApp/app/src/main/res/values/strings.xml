@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Credit Card App</string>
+    <string name="enter_card_balance">enter_card_balance</string>
+    <string name="enter_yearly_interest_rate">enter_yearly_interest_rate</string>
+    <string name="enter_minimum_payment">enter_minimum_payment</string>
+    <string name="final_card_balance">final_card_balance</string>
+    <string name="months_remaining">months_remaining</string>
+    <string name="interest_paid_will_be">interest_paid-will_be</string>
+    <string name="compute">compute</string>
+    <string name="clear">clear</string>
+</resources>
